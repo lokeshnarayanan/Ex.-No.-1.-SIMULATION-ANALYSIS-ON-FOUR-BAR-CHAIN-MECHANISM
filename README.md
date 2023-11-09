@@ -55,8 +55,10 @@
 ## Output:
 
 
-### Name:
-### Register Number: 
+### Name:LOKESH N
+### Register Number: 212222100023
+
+![image](https://github.com/lokeshnarayanan/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119393019/637ed709-8f4b-460d-b56a-cbe64540cf64)
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
